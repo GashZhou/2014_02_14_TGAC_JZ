@@ -6,3 +6,5 @@ Main text: something needs to be added here...
 Introduciton: Once upon a time, there was a fairy whose name is Linsanity.
 
 Analysis and results: Nothing major could be found, yet!!!
+
+Conculsion: Some results!
