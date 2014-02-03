@@ -1,10 +1,12 @@
-Author: Ji Zhou et al. add a new author whose name is Jeremy Lin
+Author: Ji Zhou et al. add a new author whose name is Jeremy Lin, normally adding a new author
 Title: Ups and Downs during a decade
 
 Main text: something needs to be added here... 
 
 Introduciton: Once upon a time, there was a fairy whose name is Linsanity.
 
-Analysis and results: Nothing major could be found, yet!!!
+Analysis and results: Nothing major could be found, yet!!! I am totally lost now :-(
 
 Conculsion: Some results!
+
+Additional information!!!
